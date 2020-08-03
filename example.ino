@@ -17,4 +17,4 @@ R2= R1 * buffer;
 
  
 Serial.println(R2); 
-delay(500); } }
+delay(411); } }
