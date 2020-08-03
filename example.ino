@@ -16,5 +16,5 @@ buffer= (Vin/Vout) -1;
 R2= R1 * buffer; 
 
  
-Serial.println(R2); 
-delay(411); } }
+Serial.println(Vout); 
+delay(620); } }
